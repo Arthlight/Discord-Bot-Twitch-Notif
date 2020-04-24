@@ -159,6 +159,7 @@ class MyClient(discord.Client):
                 elif not response.get('data') and streamer_count[index] > 0:
                     streamer_count[index] = 0
 
+            
             twitch_response.clear()
             await asyncio.sleep(10)
 
@@ -175,6 +176,8 @@ class MyClient(discord.Client):
 
         elif streamer == 'dpsosiris':
             await channel.send(embed=await self.embeds_created('dpsosiris'))
+
+
 
         else:
             await channel.send(
