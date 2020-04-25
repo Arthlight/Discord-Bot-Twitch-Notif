@@ -1,3 +1,4 @@
+*.env
 *.log
 *.pot
 *.pyc
@@ -115,8 +116,6 @@ dmypy.json
 .pyre/
 
 # Custom
-
-*.env
 
 # End of https://www.gitignore.io/api/django
 
