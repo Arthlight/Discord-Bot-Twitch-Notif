@@ -3,7 +3,7 @@
 
 
 If you want to use it too, mostly all you have to do is cloning this repository. 
-The crucial parts that need to be changed are `Twitch Client ID`, the `Discord Token` and the data revolving around the
+The only crucial parts that need to be provided by you are your custom `Twitch Client ID`, the `Discord Token` and the data revolving around the
 streamers you want to monitor.
 
 ![](Notif.gif)
