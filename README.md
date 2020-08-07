@@ -1,5 +1,5 @@
 # Discord Bot for Twitch Notifications
-#### :gear: A simple asynchronous discord bot to notify your server's members whenever certain streamers go live. :gear:
+#### :gear: A simple asynchronous discord bot in order to notify your server's members whenever certain streamers go live. :gear:
 
 
 If you want to use it too, mostly all you have to do is cloning this repository. 
